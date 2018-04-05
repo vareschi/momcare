@@ -1,3 +1,0 @@
-<?php
-    /// CONEXÃO
-    echo "Teste";
